@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        echo "# -Free-network" >> README.md
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git branch -M main
+        git remote add origin https://github.com/priyanshu9966/-Free-network.git
+        git push -u origin main
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+           https://git.example.org/code/echo "# -Free-network" >> README.md
+           // git init
+           git add README.md
+           git commit -m "first commit"
+           git branch -M main
+           git remote add origin https://github.com/priyanshu9966/-Free-network.git
+           git push -u origin main "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
